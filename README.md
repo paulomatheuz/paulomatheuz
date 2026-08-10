@@ -13,7 +13,6 @@
       <br>
       Hi there! I'm <b>Paulo Matheus!</b>
   </samp>
-</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F7F7F7&width=900&size=22&center=true&lines=Be+Welcome!;I%27am+a+Software+Engineering+Student." alt="Typing SVG"/>
@@ -25,23 +24,10 @@
   <img src="https://img.shields.io/badge/paulo.matheuz_✰-black" />
 </div>
       
-<br>
-<br>
-      
-<div align="center">
-  <img height="180" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulomatheuz&theme=dark">
-  <img height="180" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulomatheuz&theme=dark">
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulomatheuz&theme=dark"/>
-</div>
 
 <br>
 <br>
 
-
-
-<div align="center">
   <samp>
     <b>
       Contact me:

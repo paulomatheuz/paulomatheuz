@@ -12,29 +12,8 @@
 
 #
 
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:paulomatheuz.email@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=39D353)](https://www.instagram.com/paulo.matheuz/)
-  [![Discord](https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=39D353)](https://discord.com/users/707031346790400091)
-  
+<div align="center">
+  <samp><b>CONTACT ME:</b></samp>
+  <br><br>
+  <a href="mailto:paulomatheuz.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/paulo.matheuz/"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://discord.com/users/707031346790400091"><img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"></a>
 </div>
-
-
-
-</details>
-
-##
-
-<br>
-
-
-<br>
-<br>
-<br>

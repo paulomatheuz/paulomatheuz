@@ -1,32 +1,16 @@
-<br>
-<br>
-<br>
+#
 
 <div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/Pk0dgnN.png.png" />
+  <img src=".github/workflows/paulomatheuz github (1280 x 320 px).gif" />
 </div>
 
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Paulo Matheus!</b>
-  </samp>
+#
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F7F7F7&width=900&size=22&center=true&lines=Be+Welcome!;I%27am+a+Software+Engineering+Student." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&color=F7F7F7&width=900&size=22&center=true&lines=BE+WELCOME!;I%27AM+A+SOFTWARE+ENGINEERING+STUDANT." alt="Typing SVG"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/paulo.matheuz_✰-black" />
-</div>
-      
-
-<br>
-<br>
+#
 
   <samp>
     <b>

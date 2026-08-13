@@ -27,5 +27,5 @@
 </div>
 
 <p align="center">
-<i>"Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória"</i> 
+<i>"Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória!"</i> 
 </p>

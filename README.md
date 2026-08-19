@@ -7,18 +7,17 @@
 #
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&color=F7F7F7&width=900&size=22&center=true&lines=BE+WELCOME!;I%27AM+A+SOFTWARE+ENGINEERING+STUDANT." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&color=F7F7F7&width=900&size=22&center=true&lines=WELCOME!;I+AM+A+SOFTWARE+ENGINEERING+STUDENT." alt="Typing SVG"/>
 
 <p>Aqui você vai encontrar um pouco do que estou estudando, testando e construindo ao longo do caminho.</p>
   
-<h3 align="left"><samp><b>MY STACK:</b></samp>
+<h3 align="left"><samp><b>CURRENTLY STUDYING:</b></samp>
 <br><br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 #

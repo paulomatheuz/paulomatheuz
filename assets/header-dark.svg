@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Paulo — Código, prática e evolução.</title>
+<desc id="desc">Estudante de Engenharia de Software em Manaus, Amazonas. Perfil paulomatheuz.</desc>
+<rect width="1200" height="370" rx="4" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#f4f4f2">
+<text x="48" y="49" font-size="18" letter-spacing="3">@PAULOMATHEUZ</text>
+<text x="1152" y="49" text-anchor="end" font-size="16" letter-spacing="2" fill="#b5b5b5">MANAUS, BRASIL</text>
+<line x1="48" y1="77" x2="1152" y2="77" stroke="#333333"/>
+<text x="39" y="247" font-size="173" font-weight="700" letter-spacing="-10">PAULO<tspan font-size="125" letter-spacing="0">.</tspan></text>
+<text x="761" y="174" font-size="43" letter-spacing="-1.5">Código, prática</text><text x="761" y="227" font-size="43" letter-spacing="-1.5">e evolução.</text><line x1="48" y1="288" x2="1152" y2="288" stroke="#333333"/><text x="48" y="332" font-size="21" fill="#b5b5b5">Estudante de Engenharia de Software</text><text x="1152" y="332" text-anchor="end" font-size="17" letter-spacing="1" fill="#b5b5b5">APRENDER. CONSTRUIR. MELHORAR.</text>
+</g></svg>

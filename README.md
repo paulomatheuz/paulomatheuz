@@ -11,7 +11,7 @@
 
 <p>Aqui você vai encontrar um pouco do que estou estudando, testando e construindo ao longo do caminho.</p>
   
-<h3 align="left"><samp><b>CURRENTLY STUDYING:</b></samp>
+<h3 align="center"><samp><b>CURRENTLY STUDYING:</b></samp>
 <br><br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />

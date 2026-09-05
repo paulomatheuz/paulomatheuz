@@ -1,33 +1,45 @@
-#
-
-<div align="center">
-  <img src=".github/workflows/paulomatheuz github (1280 x 320 px).gif" />
-</div>
-
-#
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&color=F7F7F7&width=900&size=22&center=true&lines=WELCOME!;I+AM+A+SOFTWARE+ENGINEERING+STUDENT." alt="Typing SVG"/>
-
-<p>Aqui você vai encontrar um pouco do que estou estudando, testando e construindo ao longo do caminho.</p>
-  
-<h3 align="center"><samp><b>CURRENTLY STUDYING:</b></samp>
-<br><br>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-
-#
-
-<div align="center">
-  <samp><b>CONTACT ME:</b></samp>
-  <br><br>
-  <a href="mailto:paulomatheuz.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/paulo.matheuz/"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://discord.com/users/707031346790400091"><img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"></a>
-</div>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Paulo — estudante de Engenharia de Software em Manaus. Código, prática e evolução." width="100%">
+</picture>
 
 <p align="center">
-<i>"Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória!"</i> 
+  <a href="#aprendizado">Aprendizado</a> &nbsp; / &nbsp;
+  <a href="#contato">Contato</a>
 </p>
+
+## Olá, eu sou o Paulo.
+
+Sou estudante de **Engenharia de Software**, em Manaus, e estou construindo minha base com **Python e Git**. Meus projetos passam por programas de terminal, consumo de APIs e testes automatizados.
+
+**Busco um estágio ou minha primeira oportunidade em desenvolvimento de software**, para aprender com uma equipe e contribuir com o que venho praticando.
+
+<p>
+  <a href="https://www.linkedin.com/in/paulo-martins-78b962297/"><img src="assets/linkedin.svg" alt="Ver meu LinkedIn" height="36"></a>
+  <a href="mailto:paulomatheuz.email@gmail.com"><img src="assets/email.svg" alt="Conversar por e-mail" height="36"></a>
+</p>
+
+<a id="aprendizado"></a>
+
+## Aprendizado
+
+**Estou praticando:** Python, Git e GitHub, APIs HTTP, JSON e testes com pytest.
+
+<details>
+<summary><b>Outros estudos</b> — fundamentos em C</summary>
+
+Também mantenho [exercícios acadêmicos em C](https://github.com/paulomatheuz/desafios-estrutura-dados-c), como parte da minha formação.
+
+</details>
+
+<a id="contato"></a>
+
+## Vamos conversar?
+
+Se você tem uma oportunidade de estágio, uma sugestão para meus projetos ou quer trocar experiências de estudo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/paulo-martins-78b962297/) ou pelo e-mail **[paulomatheuz.email@gmail.com](mailto:paulomatheuz.email@gmail.com)**.
+
+---
+
+<p align="center"><sub><i>“Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória!”</i></sub></p>

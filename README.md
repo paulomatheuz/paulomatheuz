@@ -17,7 +17,7 @@ Sou estudante de **Engenharia de Software**, em Manaus, e estou construindo minh
 **Busco um estágio ou minha primeira oportunidade em desenvolvimento de software**, para aprender com uma equipe e contribuir com o que venho praticando.
 
 <p>
-  <a href="https://www.linkedin.com/in/paulo-martins-78b962297/"><img src="assets/linkedin.svg" alt="Ver meu LinkedIn" height="36"></a>
+  <a href="https://www.linkedin.com/in/paulo-matheus-b6b1a63a3/"><img src="assets/linkedin.svg" alt="Ver meu LinkedIn" height="36"></a>
   <a href="mailto:paulomatheuz.email@gmail.com"><img src="assets/email.svg" alt="Conversar por e-mail" height="36"></a>
 </p>
 
@@ -38,7 +38,7 @@ Também mantenho [exercícios acadêmicos em C](https://github.com/paulomatheuz/
 
 ## Vamos conversar?
 
-Se você tem uma oportunidade de estágio, uma sugestão para meus projetos ou quer trocar experiências de estudo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/paulo-martins-78b962297/) ou pelo e-mail **[paulomatheuz.email@gmail.com](mailto:paulomatheuz.email@gmail.com)**.
+Se você tem uma oportunidade de estágio, uma sugestão para meus projetos ou quer trocar experiências de estudo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/paulo-matheus-b6b1a63a3/) ou pelo e-mail **[paulomatheuz.email@gmail.com](mailto:paulomatheuz.email@gmail.com)**.
 
 ---
 

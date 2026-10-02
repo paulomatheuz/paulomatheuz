@@ -5,41 +5,19 @@
   <img src="assets/header-light.svg" alt="Paulo — estudante de Engenharia de Software em Manaus. Código, prática e evolução." width="100%">
 </picture>
 
-<p align="center">
-  <a href="#aprendizado">Aprendizado</a> &nbsp; / &nbsp;
-  <a href="#contato">Contato</a>
-</p>
+<h3 align="center">Estudante de Engenharia de Software | Consultor Tecnológico na Samsung | Manaus, AM</h3>
 
-## Olá, eu sou o Paulo.
-
-Sou estudante de **Engenharia de Software**, em Manaus, e estou construindo minha base com **Python e Git**. Meus projetos passam por programas de terminal, consumo de APIs e testes automatizados.
-
-**Busco um estágio ou minha primeira oportunidade em desenvolvimento de software**, para aprender com uma equipe e contribuir com o que venho praticando.
+<br>
 
 <p>
-  <a href="https://www.linkedin.com/in/paulo-matheus-b6b1a63a3/"><img src="assets/linkedin.svg" alt="Ver meu LinkedIn" height="36"></a>
+  Desenvolvo projetos práticos em Android, sistemas embarcados e automação de diagnóstico. Trabalho com Python, Kotlin, Java e C, aplicando testes, tratamento de erros e documentação. Busco um estágio ou minha primeira oportunidade em desenvolvimento de software, para aprender com uma equipe e contribuir com o que venho praticando.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulomatheuz"><img src="assets/linkedin.svg" alt="Ver meu LinkedIn" height="36"></a>
   <a href="mailto:paulomatheuz.email@gmail.com"><img src="assets/email.svg" alt="Conversar por e-mail" height="36"></a>
 </p>
 
 <a id="aprendizado"></a>
-
-## Aprendizado
-
-**Estou praticando:** Python, Git e GitHub, APIs HTTP, JSON e testes com pytest.
-
-<details>
-<summary><b>Outros estudos</b> — fundamentos em C</summary>
-
-Também mantenho [exercícios acadêmicos em C](https://github.com/paulomatheuz/desafios-estrutura-dados-c), como parte da minha formação.
-
-</details>
-
-<a id="contato"></a>
-
-## Vamos conversar?
-
-Se você tem uma oportunidade de estágio, uma sugestão para meus projetos ou quer trocar experiências de estudo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/paulo-matheus-b6b1a63a3/) ou pelo e-mail **[paulomatheuz.email@gmail.com](mailto:paulomatheuz.email@gmail.com)**.
-
----
 
 <p align="center"><sub><i>“Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória!”</i></sub></p>

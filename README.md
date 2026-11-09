@@ -5,12 +5,12 @@
   <img src="assets/header-light.svg" alt="Paulo — estudante de Engenharia de Software em Manaus. Código, prática e evolução." width="100%">
 </picture>
 
-<h3 align="center">Estudante de Engenharia de Software | Consultor Tecnológico na Samsung | Manaus, AM</h3>
+<h4 align="center">SOFTWARE ENGINEERING | SAMSUNG TECHNICAL CONSULTANT | PYTHON | AUTOMATION | APIs & INTEGRATIONS | SOFTWARE TESTING | APPLIED AI</h4>
 
 <br>
 
 <p>
-  Desenvolvo projetos práticos em Android, sistemas embarcados e automação de diagnóstico. Trabalho com Python, Kotlin, Java e C, aplicando testes, tratamento de erros e documentação. Busco um estágio ou minha primeira oportunidade em desenvolvimento de software, para aprender com uma equipe e contribuir com o que venho praticando.
+  Sou estudante de Engenharia de Software e venho desenvolvendo minhas competências em Python, automação, integração com APIs e testes de software por meio de projetos práticos. Também estudo IA aplicada e busco escrever código organizado, tratar erros e documentar minhas implementações. Procuro um estágio ou minha primeira oportunidade em desenvolvimento de software para aprender com uma equipe e contribuir com os conhecimentos que venho construindo.
 </p>
 
 <p align="center">
